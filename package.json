@@ -1,0 +1,16 @@
+{
+  "name": "convert-names",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^5.0.1",
+    "xlsx": "^0.16.7"
+  }
+}
